@@ -1,4 +1,5 @@
-# [wordle-flesh.surge.sh](https://wordle-flesh.surge.sh/)
+# [Wordle Game Link](https://wordle-flesh.surge.sh/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
